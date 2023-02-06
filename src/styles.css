@@ -1,0 +1,17 @@
+.nav-bar{
+    background-color: rgb(38, 38, 67);
+    color: #fff;
+    /* padding: 10px;
+    display: flex;
+    justify-content: space-between; */
+    text-align: center;
+}
+.nav-bar h1{
+    margin-bottom: 0;
+}
+
+.nav-bar .top-menu a{
+color:cyan;
+margin-right: 5px;
+
+}
